@@ -1,0 +1,7 @@
+C:\Users\darag.21192\source\repos\Gru\Gru\obj\Debug\net6.0-windows\Gru.Form1.resources
+C:\Users\darag.21192\source\repos\Gru\Gru\obj\Debug\net6.0-windows\Gru.Properties.Resources.resources
+C:\Users\darag.21192\source\repos\Gru\Gru\obj\Debug\net6.0-windows\Gru.csproj.GenerateResource.cache
+C:\Users\darag.21192\source\repos\Gru\Gru\obj\Debug\net6.0-windows\Gru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darag.21192\source\repos\Gru\Gru\obj\Debug\net6.0-windows\Gru.AssemblyInfoInputs.cache
+C:\Users\darag.21192\source\repos\Gru\Gru\obj\Debug\net6.0-windows\Gru.AssemblyInfo.cs
+C:\Users\darag.21192\source\repos\Gru\Gru\obj\Debug\net6.0-windows\Gru.csproj.CoreCompileInputs.cache
